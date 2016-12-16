@@ -7,6 +7,8 @@ public class Main {
 		
 		System.out.println("欢迎大家来到git世界");
 		
+		System.out.println("hahshshhshs");
+		
 		
 	}
 
